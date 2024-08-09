@@ -1,6 +1,3 @@
-// const arr =[1, [2, [3, 4]]]
-// const len = arr.flat(Infinity)
-// console.log(len.length);
 let arr = [1, [2, [3, 4]]];
 
 function nestedLength(array) {
